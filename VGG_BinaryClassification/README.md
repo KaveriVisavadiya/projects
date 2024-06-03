@@ -1,4 +1,4 @@
-This folder contains files that compare the performance on a binary classification task of the following models: 
+This folder contains Python files that compare the following CNN models on a binary image classification task: 
 
 1. VGG (1 block) 
 2. VGG (3 blocks)
@@ -6,5 +6,7 @@ This folder contains files that compare the performance on a binary classificati
 4. Transfer learning using VGG16 or VGG19 with tuning all layers (including tuning convolution layers)
 5. Transfer learning using VGG16 or VGG19 with tuning only final MLP layers (excluding convolution layers)
 
-A handmade 2-class dataset has been created for the purpose. Code has been referred from the website https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-photos-of-dogs-and-cats/
+A handmade 2-class dataset has been created for the purpose and can be referred in this folder. Code for model creation has been referred from the website https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-photos-of-dogs-and-cats/. Code has been run and tested on Google Colab using CPU runtime type.
 
+The following is the result of the analysis:
+![image](https://github.com/KaveriVisavadiya/projects/assets/145709121/effda76f-868b-49dd-b444-5372cbd36a52)
