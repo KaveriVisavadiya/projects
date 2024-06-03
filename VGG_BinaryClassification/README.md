@@ -9,4 +9,5 @@ This folder contains Python files that compare the following CNN models on a bin
 A handmade 2-class dataset has been created for the purpose and can be referred in this folder. Code for model creation has been referred from the website https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-photos-of-dogs-and-cats/. Code has been run and tested on Google Colab using CPU runtime type.
 
 The following is the result of the analysis:
-![image](https://github.com/KaveriVisavadiya/projects/assets/145709121/effda76f-868b-49dd-b444-5372cbd36a52)
+![image](https://github.com/KaveriVisavadiya/projects/assets/145709121/12f2b2ab-c977-48c4-acb7-3f134bcd0f41)
+
