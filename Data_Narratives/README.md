@@ -1,1 +1,1 @@
-
+This folder contains Data Narratives that analyze some famous datasets. The narratives ask some scientific questions about the data and draw conclusions by using Python libraries such as NumPy, Pandas and Matplotlib for effective data investigation and visualization.
