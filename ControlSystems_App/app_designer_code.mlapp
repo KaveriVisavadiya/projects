@@ -21,6 +21,7 @@ classdef app1 < matlab.apps.AppBase
 
         % Code that executes after component creation
         function startupFcn(app)
+            % THIS FUNCTION IS EDITABLE
             app.UIFigure.Color = '#E6E6FA';
             app.SecondOrderTFLabel.Interpreter = 'latex';
             app.SecondOrderTFLabel.Text = 'Second Order Tranfer Function: \frac{$K\omega_{n}^{2}$}{$s^{2} + 2\delta\omega_{n}s + \omega_{n}^{2}$}';
@@ -39,6 +40,7 @@ classdef app1 < matlab.apps.AppBase
 
         % Button pushed function: EvaluatePlotsButton
         function EvaluatePlotsButtonPushed(app, event)
+            % THIS FUNCTION IS EDITABLE
             K = app.KSlider.Value;
             w_n = app.omega_nSlider.Value;
             delta = app.deltaSlider.Value;
