@@ -1,4 +1,4 @@
-# this repo is obsolete, projects have been moved to new repos
+## this repo is obsolete, projects have been moved to new repos
 
 This repository contains some assignments/projects that I have done as part of my coursework at IIT Gandhinagar.
 
